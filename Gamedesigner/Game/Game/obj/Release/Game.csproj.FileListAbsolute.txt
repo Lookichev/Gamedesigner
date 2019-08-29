@@ -1,0 +1,14 @@
+D:\Programs\Visual\Results#\Game\Game\bin\Release\Game.exe.config
+D:\Programs\Visual\Results#\Game\Game\bin\Release\Game.exe
+D:\Programs\Visual\Results#\Game\Game\bin\Release\Game.pdb
+D:\Programs\Visual\Results#\Game\Game\obj\Release\MainWindow.g.cs
+D:\Programs\Visual\Results#\Game\Game\obj\Release\App.g.cs
+D:\Programs\Visual\Results#\Game\Game\obj\Release\Game_MarkupCompile.cache
+D:\Programs\Visual\Results#\Game\Game\obj\Release\Game_MarkupCompile.lref
+D:\Programs\Visual\Results#\Game\Game\obj\Release\MainWindow.baml
+D:\Programs\Visual\Results#\Game\Game\obj\Release\Game.g.resources
+D:\Programs\Visual\Results#\Game\Game\obj\Release\Game.Properties.Resources.resources
+D:\Programs\Visual\Results#\Game\Game\obj\Release\Game.csproj.GenerateResource.cache
+D:\Programs\Visual\Results#\Game\Game\obj\Release\Game.csproj.CoreCompileInputs.cache
+D:\Programs\Visual\Results#\Game\Game\obj\Release\Game.exe
+D:\Programs\Visual\Results#\Game\Game\obj\Release\Game.pdb
